@@ -65,8 +65,8 @@ Here are some of my notable projects:
   - Performed extensive data cleaning and feature engineering.
   - Visualized data insights using Matplotlib and Seaborn.
 
-### [Project 3: Mobile App Development](https://github.com/mentesnot-2/mobile-app)
-- **Description:** A cross-platform mobile application for personal finance management.
+### [Project 3: Mobile App Development](https://github.com/mentesnot-2/Finote)
+- **Description:** Finote is a mobile application designed to revolutionize bus travel in Ethiopia by allowing travelers to purchase tickets easily from their convenience and enabling bus operators to simplify their operations and increase ticket sales. Our app features user-friendly interfaces, secure payment methods, and real-time schedule management. Join us in making bus travel more efficient and accessible for everyone!.
 - **Tech Stack:** Flutter, Dart, Firebase.
 - **Highlights:**
   - Integrated real-time database and authentication with Firebase.
