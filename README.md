@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="[https://your-banner-image-url.com/banner.png](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)" alt="Banner" />
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Banner" />
 </p>
 
 <!-- Greeting -->
