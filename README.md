@@ -37,7 +37,7 @@
 <!-- About Me -->
 ## 🧐 About Me
 
-- 🔭 I’m currently working on **[Your Current Project Name](https://github.com/mentesnot-2/your-current-project)**.
+- 🔭 I’m currently working on **[FullStack Nextjs Project With Mongodb](https://github.com/mentesnot-2/nextMSNBlogSite-clone)**.
 - 🌱 I’m currently learning **Supervised Machine Learning** to enhance my abilities in data analysis and predictive modeling.
 - 👯 I’m looking to collaborate on **FullStack Projects** that make a meaningful impact.
 - 💬 Ask me about **JavaScript, Python, Golang, React, Next.js, Node.js/Express, NestJS, CSS, Tailwind**.
