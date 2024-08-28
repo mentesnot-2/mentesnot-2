@@ -57,13 +57,15 @@ Here are some of my notable projects:
   - Integrated authentication and authorization using JWT.
   - Achieved responsive design compatible with all device sizes.
 
-### [Project 2: Machine Learning Model](https://github.com/mentesnot-2/machine-learning-model)
-- **Description:** A supervised machine learning model predicting housing prices with high accuracy.
-- **Tech Stack:** Python, scikit-learn, Pandas, NumPy, Matplotlib.
+### [Project 2: FullStack Book Tracker](https://github.com/mentesnot-2/FullStackBookTracker)
+- **Description:** A simple book tracking application built with FastAPI, PostgreSQL, and the repository pattern. This application allows users to manage and track their books efficiently.
+- **Tech Stack:** FastAPI, PostgreSQL, SQLAlchemy, Pydantic, Alembic.
 - **Highlights:**
-  - Achieved 95% accuracy on test datasets.
-  - Performed extensive data cleaning and feature engineering.
-  - Visualized data insights using Matplotlib and Seaborn.
+  - Implemented a RESTful API using FastAPI for managing books and user data.
+  - Used PostgreSQL for robust and scalable data storage.
+  - Applied the repository pattern for clean and maintainable code architecture.
+  - Included features for adding, updating, and tracking books with user-friendly interfaces.
+
 
 ### [Project 3: Mobile App Development](https://github.com/mentesnot-2/Finote)
 - **Description:** Finote is a mobile application designed to revolutionize bus travel in Ethiopia by allowing travelers to purchase tickets easily from their convenience and enabling bus operators to simplify their operations and increase ticket sales. Our app features user-friendly interfaces, secure payment methods, and real-time schedule management. Join us in making bus travel more efficient and accessible for everyone!.
