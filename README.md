@@ -49,9 +49,9 @@
 
 Here are some of my notable projects:
 
-### [Project 1: Awesome Web App](https://github.com/mentesnot-2/awesome-web-app)
-- **Description:** A web application that helps users track their tasks efficiently with intuitive UI/UX design.
-- **Tech Stack:** React, Redux, Node.js, Express, MongoDB, Tailwind CSS.
+### [Project 1: HakimHub](https://github.com/A2SV/HakimHub)
+- **Description:** Hakimhub is a comprehensive platform designed to help users make informed decisions about their healthcare. By offering detailed information and comparisons of hospitals, Hakimhub empowers you to choose the best medical facility based on your specific needs..
+- **Tech Stack:** Nextjs, Redux,RTK Query, Node.js, Express, MongoDB, Tailwind CSS.
 - **Highlights:**
   - Implemented real-time updates using WebSockets.
   - Integrated authentication and authorization using JWT.
