@@ -37,10 +37,9 @@
 <!-- About Me -->
 ## 🧐 About Me
 
-- 🔭 I’m currently working on **[FullStack Nextjs Project With Mongodb](https://github.com/mentesnot-2/nextMSNBlogSite-clone)**.
 - 🌱 I’m currently learning **Supervised Machine Learning** to enhance my abilities in data analysis and predictive modeling.
 - 👯 I’m looking to collaborate on **FullStack Projects** that make a meaningful impact.
-- 💬 Ask me about **JavaScript, Python, Golang, React, Next.js, Node.js/Express, NestJS, CSS, Tailwind**.
+- 💬 Ask me about **JavaScript, Python(Django , FastAPI, Flask), Golang, React, Next.js, Node.js/Express, NestJS, CSS, Tailwind**.
 - 🎯 Goals: To contribute to open-source projects and delve deeper into **Artificial Intelligence** and **Cloud Computing**.
 - ⚡ Fun fact: I'm a problem-solving enthusiast who enjoys participating in coding challenges and hackathons.
 
