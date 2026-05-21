@@ -5,7 +5,7 @@
 
 <!-- Greeting -->
 <h1 align="center">Hi 👋, I'm Mentesnot Sibatu</h1>
-<h3 align="center">A Passionate Software Engineer from Ethiopia</h3>
+<h3 align="center">Senior Software Engineer, AI/ML Engineer</h3>
 
 <!-- Short Introduction -->
 <p align="center">
@@ -149,15 +149,5 @@ Here are some of my notable projects:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mentesnot-2&show_icons=true&locale=en&layout=compact&theme=radical" alt="mentesnot-2" />
 </p>
 
-<!-- Quote -->
-## 💬 Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</p>
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/martinheinz/martinheinz/master/wave.gif" width="30px">
-  Made with ❤️ by Mentesnot Sibatu
-</p>
