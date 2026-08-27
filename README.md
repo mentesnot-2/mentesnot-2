@@ -5,7 +5,7 @@
 
 <!-- Greeting -->
 <h1 align="center">Hi 👋, I'm Mentesnot Sibatu</h1>
-<h3 align="center">Senior Software Engineer, AI/ML Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <!-- Short Introduction -->
 <p align="center">
